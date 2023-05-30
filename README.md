@@ -52,7 +52,8 @@ misinformation = Fake news, False News, Satire news, Disinformation, Misinformat
 
 # # Software Architecture
 
-[image]([https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/assets/23063237/849cf3c2-cd56-4e7f-83fb-fd696a05377c](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG))
+
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
 
 
 
