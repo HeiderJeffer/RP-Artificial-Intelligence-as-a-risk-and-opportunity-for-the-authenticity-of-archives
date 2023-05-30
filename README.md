@@ -89,12 +89,16 @@ at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 # Research Approach
 ## Data collection
 ### Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
+- Step Results records are imported
 ### Step 2 Apply inclusion/ exclusion criteria
+- Step Resluts: inclusion/ exclusion criteria applied
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
+- Step Results: Digitalized-Record
 ### Step 4 Optimization: optimize quality of Digitalized-Record
+- Step Results: Digitalized-Record with optimal quality
 ### Step 5 Extract the relevant information from the Digitalized-Record 
 From the digitalized records extract the following info.:- Name of the record Type of the Record: (False Information, cultural heritage, or Human Development)
-
+-Step Results:  Digitalized-Record  with relevant information
 ## Data analysis
 ### Step 6 AI in False Information analysis
 - To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
@@ -107,20 +111,20 @@ From the digitalized records extract the following info.:- Name of the record Ty
     - AI Fake News Detector to detect Create Fake Post 
     - AI SocialBot Detector to detect Spread Fake Post 
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results  AI in False Information analysis
+- Step Results  AI in False Information analysis
 
 ### Step 7 AI Techs in cultural heritage analysis
 - Input = DOC, MP3 and MP4
 - Extract the following: Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results: AI cultural heritage analysis
+- Step Results: AI cultural heritage analysis
 
 ###  Step 8 AI Techs in humane development
 
 - Input = DOC, MP3 and MP4
 - Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results: AI humane development analysis
+- Step Results: AI humane development analysis
 
 ## Finally
 by following the above steps we will answer the RQ1 and RQ2 addressed in this project.
