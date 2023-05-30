@@ -136,6 +136,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 - RQ1: What would AI-based approaches on archival principles look like? What possibilities do they suggest about humane AI development? Do they counter the “black box” character of AI?
 - RQ2: What benefits would an archival AI offer an institution and society? Could it help future-proof cultural heritage institutions, i.e., foster heritage futures? Can an archival AI, outside the archival setting, serve public interest (e.g., combating fake news and propaganda)?
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/11.PNG)
 
 # # Software Architecture
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
