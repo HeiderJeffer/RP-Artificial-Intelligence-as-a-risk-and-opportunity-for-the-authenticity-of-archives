@@ -8,12 +8,9 @@ by Phd. Candidate Heider Jeffer
 - Prof. Isto Huvila (IH), Co-Investigator
 
 # Why I Chose this Project?
-
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/5.PNG)
 
-
 # Problem Statement and Motivation
-
 - AI has played a major role in the digitalization of society and creating new technologies than ever before, but, on the other hand, 
 Ethics, principles, democracy, equalities, criminal justice and morality  are important human features and AI still grow uncontrollably lack of these features, without any scientific models, or theoretical foundation that could investigate, evaluate, improve and invest in the  AI Techs regarding to  human development 
 - AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now
@@ -21,7 +18,7 @@ Ethics, principles, democracy, equalities, criminal justice and morality  are i
 
 ## We live in world of AI fake news and propaganda
 ## AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now 
-
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/2.PNG)
 
 # Research objective 
 The major research question will answer in this project are:
