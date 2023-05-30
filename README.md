@@ -29,3 +29,39 @@ The primary objective of this research is to develop a quantitative and qualitat
 # Goal
 Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane AI development.
 
+
+
+# Research Method
+
+## Data collection
+- Optimization: optimize quality of record
+- Digitization: digitize record into computable formats (Doc,PGN,MP4,MP3)
+- Extract the relevant information from the Digitalized-Records
+Name of the record
+Type of the Record: (False Information, cultural heritage, or Human Development)
+## Data analysis
+- AI in False Information analysis
+
+misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer
+
+- AI Techs in cultural heritage analysis
+- AI Techs in humane development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
