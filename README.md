@@ -100,12 +100,12 @@ From the digitalized records extract the following info.:- Name of the record Ty
 - To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
 - misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer.
 - Use AI tools to track and extract (False Information) topic  from the data (DOC, MP3 and MP4)
-- Definition: AI Attack:
-  - AI who Create Fake Post in Web
-  - AI who Spread Fake Post to group of people
-- Definition: AI Defense:
-  - AI Fake News Detector to detect Create Fake Post 
-  - AI SocialBot Detector to detect Spread Fake Post 
+  - AI Attack:
+    - AI who Create Fake Post in Web
+    - AI who Spread Fake Post to group of people
+  - AI Defense:
+    - AI Fake News Detector to detect Create Fake Post 
+    - AI SocialBot Detector to detect Spread Fake Post 
 
 
 ### Step 7 AI Techs in cultural heritage analysis
