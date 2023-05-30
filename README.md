@@ -106,16 +106,20 @@ From the digitalized records extract the following info.:- Name of the record Ty
   - AI Defense:
     - AI Fake News Detector to detect Create Fake Post 
     - AI SocialBot Detector to detect Spread Fake Post 
-
+- Implement (1. Topics modeling 2 clustering 3. K-means)
+- Results  AI in False Information analysis
 
 ### Step 7 AI Techs in cultural heritage analysis
 - Input = DOC, MP3 and MP4
 - Extract the following: Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
+- Implement (1. Topics modeling 2 clustering 3. K-means)
 - Results: AI cultural heritage analysis
 
 ###  Step 8 AI Techs in humane development
+
 - Input = DOC, MP3 and MP4
 - Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
+- Implement (1. Topics modeling 2 clustering 3. K-means)
 - Results: AI humane development analysis
 
 ## Finally
