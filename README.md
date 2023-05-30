@@ -70,6 +70,8 @@ AI Tools must respect the following PRINCIPLES:
 is a variety of digital technologies and methods for automated information processing and data mining. 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/6.PNG)
 
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/2.PNG)
+
 ### Finding study
 - Study1: convert scanned manuscripts to a format that can be accessed by information retrieval systems or for further analysis.
 - Study2: recognition techniques to pre-process historical texts, thereby improving its clarity for accessing the records.
