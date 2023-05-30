@@ -107,52 +107,47 @@ Exclusion criteria
 - Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
-
 - Digitization is the process of converting information into a digital format. 
 - Convert the data in (Collection B) into (DOC, PNG, MP3, and MP4) format
 - Results (Collection C): Digitalized-Record in (DOC, PNG, MP3, and MP4) format
 
 ### Step 4 Optimization: optimize quality of Digitalized-Record
-- Results (Collection D): Digitalized-Record with optimal quality
+- Implement ML/DL in (Collection C) to optimaize the data's quality 
+- Results (Collection D): Data quality optimized
 
 ### Step 5 Extract the relevant information from the Digitalized-Record 
-- from data in (Collection D)
-- extract the following info
+- Implement ML/DL in (Collection D) to extract the following info
     - Name of the record, Type of the Record
     - False Information, cultural heritage,  Human Development
-- Implement (1. Topics modeling 2 clustering 3. K-means)
+- Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection E):  Digitalized-Record with relevant information
 
 ## Data analysis
-
 ### Step 6 AI in False Information analysis
-- To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
- - Misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer. 
- - AI Attack:
-    - AI who Create Fake Post in Web
-    - AI who Spread Fake Post to group of people
- - AI Defense:
-    - AI Fake News Detector to detect Create Fake Post 
-    - AI SocialBot Detector to detect Spread Fake Post 
-
-- from (Collection E) extract the following:
-    - Misinformation
-    - AI Attack 
-    - AI Defense
-- Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results Collection F:  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
+To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
+- Implement ML/DL in (Collection E) to extract the following
+             - Misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer. 
+             - AI Attack:
+                - AI who Create Fake Post in Web
+                - AI who Spread Fake Post to group of people
+             - AI Defense:
+                - AI Fake News Detector to detect Create Fake Post 
+                - AI SocialBot Detector to detect Spread Fake Post 
+            - from (Collection E) extract the following:
+                - Misinformation
+                - AI Attack 
+                - AI Defense
+- Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
+- Results (Collection F):  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
 
 ### Step 7 AI Techs in cultural heritage analysis
-- from data in (Collection E) Extract the following: 
-    - Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
-- Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results (Collection G): AI cultural heritage analysis distributed into identical groups/classes 
+- Implement ML/DL in (Collection E) to extract the following: Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
+- Implement ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
+- Results (Collection G): a groups of (AI cultural heritage) distributed into identical classes 
 
 ###  Step 8 AI Techs in humane development
-
-- from data in (Collection E) Extract the following: 
-        - Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
-- Implement (1. Topics modeling 2 clustering 3. K-means)
+-  Implement ML/DL in (Collection E) Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
+- Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results Collection H: AI humane development analysis distributed into identical groups/classes 
 
 ## Finally
