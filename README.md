@@ -7,6 +7,11 @@ by Phd. Candidate Heider Jeffer
 - Prof. Anna Foka (AF), Principal Investigator
 - Prof. Isto Huvila (IH), Co-Investigator
 
+# Why I Chose this Project?
+
+
+
+
 # Problem Statement and Motivation
 
 - AI has played a major role in the digitalization of society and creating new technologies than ever before, but, on the other hand, 
