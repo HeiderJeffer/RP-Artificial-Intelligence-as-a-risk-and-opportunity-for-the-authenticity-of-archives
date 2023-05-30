@@ -148,10 +148,11 @@ To understand the AI applications and how these technologies can support the spr
 ###  Step 8 AI Techs in humane development
 -  Implement ML/DL in (Collection E) Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
-- Results Collection H: AI humane development analysis distributed into identical groups/classes 
+- Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
-## Finally
-by following the above steps we will answer the RQ1 and RQ2 addressed in this project.
+## Finding Study
+
+(Collection F) , (Collection G), (Collection H) are answer for RQ1 and RQ2 that we addressed in this project.
 
 # # Software Architecture
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
