@@ -7,6 +7,16 @@ by Phd. Candidate Heider Jeffer
 - Prof. Anna Foka (AF), Principal Investigator
 - Prof. Isto Huvila (IH), Co-Investigator
 
+# Problem Statement and Motivation
+
+- AI has played a major role in the digitalization of society and creating new technologies than ever before, but, on the other hand, 
+Ethics, principles, democracy, equalities, criminal justice and morality  are important human features and AI still grow uncontrollably lack of these features, without any scientific models, or theoretical foundation that could investigate, evaluate, improve and invest in the  AI Techs regarding to  human development 
+- AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now
+- We live in world of AI fake news and propaganda
+- 
+
+
+
 # Research objective 
 The major research question will answer in this project are:
 
@@ -27,7 +37,6 @@ The primary objective of this research is to develop a quantitative and qualitat
 # Goal
 Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane AI development.
  
-# Problem Statement and Motivation
 
 
 # Research Method
