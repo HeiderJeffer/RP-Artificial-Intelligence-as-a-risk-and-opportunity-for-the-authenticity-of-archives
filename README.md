@@ -55,8 +55,11 @@ The primary objective of this research is to develop a quantitative and qualitat
 
 ## Data collection
 Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
+
 Step 2 Apply inclusion/ exclusion criteriaStep 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
+
 Step 4 Optimization: optimize quality of Digitalized-Record
+
 Step 5 Extract the relevant information from the Digitalized-Record From the digitalized records extract the following info.:- Name of the record Type of the Record: (False Information, cultural heritage, or Human Development)
 
 ## Data analysis
@@ -73,9 +76,6 @@ Use AI tools to track and extract (False Information) topic  from the data (DOC,
 - Definition  AI Defense:
   - AI Fake News Detector to detect Create Fake Post 
   - AI SocialBot Detector to detect Spread Fake Post 
-
-
-
 
 
 Step 7 AI Techs in cultural heritage analysis
