@@ -86,8 +86,7 @@ at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/7.PNG)
 
-# Research Method
-
+# Research Approach
 ## Data collection
 ### Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
 ### Step 2 Apply inclusion/ exclusion criteria
