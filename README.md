@@ -132,7 +132,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
 ## Finding Study
-(Collection F) , (Collection G), and (Collection H) are the answers for RQ1 and RQ2 that we addressed in this project.
+Research finding  showing in diagram (Collection F) , (Collection G), and (Collection H) are the answers for RQ1 and RQ2 that we addressed in this project.
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/11.PNG)
 
 # # Software Architecture
