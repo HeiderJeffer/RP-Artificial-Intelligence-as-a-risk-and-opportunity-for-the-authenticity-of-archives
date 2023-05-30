@@ -141,16 +141,14 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
 
 # Requirements
-- Python
-- Pandas
-- conda
-- PyTorch
-- NumPy
-- Matlab
-- Scilab
-- Atlas ti
-- Git
-- Bash
+### Languages: 
+Python, Bash
+### ML/DL: 
+PyTorch, NumPy, Pandas conda, Matlab, Scilab
+### QDA
+Atlas ti
+### VC
+Git
 
 
 
