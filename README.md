@@ -116,19 +116,8 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ## Data analysis
 ### Step 6 AI in False Information analysis
-To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
 - Implement ML/DL in (Collection E) to extract the following
-             - Misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer. 
-             - AI Attack:
-                - AI who Create Fake Post in Web
-                - AI who Spread Fake Post to group of people
-             - AI Defense:
-                - AI Fake News Detector to detect Create Fake Post 
-                - AI SocialBot Detector to detect Spread Fake Post 
-            - from (Collection E) extract the following:
-                - Misinformation
-                - AI Attack 
-                - AI Defense
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/9.PNG)
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection F):  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
 
