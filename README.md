@@ -30,13 +30,13 @@ Ethics, principles, democracy, equalities, criminal justice and morality  are i
 # Research objective 
 The major research question will answer in this project are:
 
-RQ1:
+## RQ1:
 
 - What would AI-based approaches on archival principles look like? 
 - What possibilities do they suggest about humane AI development?
 - Do they counter the “black box” character of AI?
 
-RQ2:
+## RQ2:
 
 - What benefits would an archival AI offer an institution and society? 
 - Could it help future-proof cultural heritage institutions, i.e., foster heritage futures? 
@@ -45,19 +45,18 @@ RQ2:
 The primary objective of this research is to develop a quantitative and qualitative methods to design an effective system to answer RQ 1 and RQ 2.
 
 # Purpose and aims 
-
 - Overall, the scientific significance and novelty of the project responds to international and European incentives for ethical democratising and a more humane AI
 - Ongoing partnership, producing original research, training/teaching  students and other highly qualified personal. 
 - Generating a virtuous circle with: history, archival science, digital humanities, computer science and media technology.
 - Looking for feedback loop: to reinforce and exchange  the knowledge capabilities and ideas with each party.
 
 
- 
-
-
 # Research Method
 
+
 ## Data collection
+
+- Import records from the Swedish National Archives and the Swedish National Heritage
 - Optimization: optimize quality of record
 - Digitization: digitize record into computable formats (Doc,PGN,MP4,MP3)
 - Extract the relevant information from the Digitalized-Records
