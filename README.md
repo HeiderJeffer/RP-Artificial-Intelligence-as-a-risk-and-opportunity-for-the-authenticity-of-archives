@@ -70,8 +70,6 @@ AI Tools must respect the following PRINCIPLES:
 is a variety of digital technologies and methods for automated information processing and data mining. 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/6.PNG)
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/2.PNG)
-
 ### Finding study
 - Study1: convert scanned manuscripts to a format that can be accessed by information retrieval systems or for further analysis.
 - Study2: recognition techniques to pre-process historical texts, thereby improving its clarity for accessing the records.
@@ -86,6 +84,7 @@ Einstein's 1925 manuscript, Study 1 & 2 experiments  by Heider Jeffer – Transk
 
 at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/7.PNG)
 
 # Research Method
 
