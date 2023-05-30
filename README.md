@@ -140,7 +140,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 # # Software Architecture
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
 
-# Requirements 
+# Requirements
 - Python
 - Pandas
 - conda
@@ -149,6 +149,8 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 - Matlab
 - Scilab
 - Atlas ti
+- Git
+- Bash
 
 
 
