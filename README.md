@@ -140,7 +140,7 @@ Exclusion criteria
     - AI Attack 
     - AI Defense
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Results Collection F:  AI in False Information analysis: grouped into (Misinformation, AI Attack, AI Defense)
+- Results Collection F:  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
 
 ### Step 7 AI Techs in cultural heritage analysis
 - from data in (Collection E) Extract the following: 
@@ -151,7 +151,7 @@ Exclusion criteria
 ###  Step 8 AI Techs in humane development
 
 - from data in (Collection E) Extract the following: 
-        - Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
+        - Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
 - Implement (1. Topics modeling 2 clustering 3. K-means)
 - Results Collection H: AI humane development analysis distributed into identical groups/classes 
 
