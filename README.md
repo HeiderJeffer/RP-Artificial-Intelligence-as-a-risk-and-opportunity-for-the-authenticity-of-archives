@@ -9,6 +9,7 @@ by Phd. Candidate Heider Jeffer
 
 # Research objective 
 The major research question will answer in this project are:
+
 RQ1:
 
 - What would AI-based approaches on archival principles look like? 
