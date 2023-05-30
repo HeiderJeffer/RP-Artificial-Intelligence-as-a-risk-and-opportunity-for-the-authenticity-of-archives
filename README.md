@@ -26,7 +26,8 @@ The primary objective of this research is to develop a quantitative and qualitat
 
 # Goal
 Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane AI development.
-
+ 
+# Problem Statement and Motivation
 
 
 # Research Method
