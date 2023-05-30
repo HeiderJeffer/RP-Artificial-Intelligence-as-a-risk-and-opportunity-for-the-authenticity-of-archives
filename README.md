@@ -66,6 +66,9 @@ AI Tools must respect the following PRINCIPLES:
 10. SUSTAINABLE DEVELOPMENT PRINCIPLE
 
 
+### AI Technologies
+is a variety of digital technologies and methods for automated information processing and data mining. 
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/6.PNG)
 # Research Method
 
 ## Data collection
