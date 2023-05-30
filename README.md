@@ -95,20 +95,8 @@ This study is designed to be exploratory. The overall data collection and analys
 ### Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
 - Results Collection A: records are imported
 ### Step 2 Apply inclusion/ exclusion criteria
-
-Inclusion criteria
-1. Records are freely accessible by all party and available at any time
-2. Records are in English
-3. Records can be digitized 
-4. Records imported from imported from SNA (Swedish National Archives) and SNH (Swedish National Heritage)
-
-Exclusion criteria
-1. Records are freely accessible by all party and available at any time
-2. Records are not in English
-3. Records can not be digitized
-4. Imported from Slideshare, Quora, Twitter Facebook, LinkedIn, personal (or company) blogs
-
-- Resluts  (Collection B): inclusion/ exclusion criteria applied
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/9.PNG)
+Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
 - Digitization is the process of converting information into a digital format. 
