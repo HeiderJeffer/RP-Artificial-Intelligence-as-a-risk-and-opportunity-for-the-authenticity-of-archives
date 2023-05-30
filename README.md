@@ -69,6 +69,22 @@ AI Tools must respect the following PRINCIPLES:
 ### AI Technologies
 is a variety of digital technologies and methods for automated information processing and data mining. 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/6.PNG)
+
+### Finding study
+- Study1: convert scanned manuscripts to a format that can be accessed by information retrieval systems or for further analysis.
+- Study2: recognition techniques to pre-process historical texts, thereby improving its clarity for accessing the records.
+- Study3: represent supervised machine learning to identify sensitive information in archival documents to facilitate ethical archival research  
+- Study 4,5: techniques to make the AI model explainable 
+- Study 6: shows that AI technologies are often treated as a (black box).
+- Study 7: about Archival practices: authenticity of purported records.  
+- Study 8: Understanding authentication as dynamic and reflexive instead of  static and stable.
+
+
+Einstein's 1925 manuscript, Study 1 & 2 experiments  by Heider Jeffer – Transkribus tool
+
+at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
+
+
 # Research Method
 
 ## Data collection
