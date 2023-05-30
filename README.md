@@ -18,8 +18,9 @@ by Phd. Candidate Heider Jeffer
 Ethics, principles, democracy, equalities, criminal justice and morality  are important human features and AI still grow uncontrollably lack of these features, without any scientific models, or theoretical foundation that could investigate, evaluate, improve and invest in the  AI Techs regarding to  human development 
 - AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now
 - We live in world of AI fake news and propaganda
-- 
 
+## We live in world of AI fake news and propaganda
+## AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now 
 
 
 # Research objective 
