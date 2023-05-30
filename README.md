@@ -142,7 +142,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 # Requirements
 - Languages: Python, Bash
-- ML/DL: PyTorch, NumPy, Pandas conda, Matlab, Scilab
+- ML/DL: PyTorch, NumPy, Pandas conda, Matlab, Scilab, Transkribus
 - QDA: Atlas ti
 - Version control: Git
 
