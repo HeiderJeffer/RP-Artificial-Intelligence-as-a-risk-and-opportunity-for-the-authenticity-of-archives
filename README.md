@@ -96,7 +96,7 @@ Inclusion criteria
 1. Records are freely accessible by all party and available at any time
 2. Records are in English
 3. Records can be digitized 
-4. Records imported from imported from SNA (Swedish National Archives), SNH (Swedish National Heritage), Gray Literature 
+4. Records imported from imported from SNA (Swedish National Archives) and SNH (Swedish National Heritage)
 
 Exclusion criteria
 1. Records are freely accessible by all party and available at any time
@@ -107,6 +107,7 @@ Exclusion criteria
 - Step Resluts: inclusion/ exclusion criteria applied
 
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
+Digitization is the process of converting information into a digital format. 
 - Step Results: Digitalized-Record in (DOC, PNG, MP3, and MP4) format
 
 ### Step 4 Optimization: optimize quality of Digitalized-Record
