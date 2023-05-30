@@ -117,7 +117,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 ## Data analysis
 ### Step 6 AI in False Information analysis
 - Implement ML/DL in (Collection E) to extract the following
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/9.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/10.PNG)
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection F):  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
 
