@@ -20,6 +20,13 @@ Ethics, principles, democracy, equalities, criminal justice and morality  are i
 ## AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/2.PNG)
 
+
+- We live in these outcomes, they are the biggest threat modern humans have ever faced, and still happening now in (2023) the time I am writing this presentation, therefore, together, with history, archival science, digital humanities, media technology, and computer science, we should start quickly in this project to address and investigate these challenges and to contribute new knowledge to the fields, as soon as humanly possible.
+
+- Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane development.
+
+
+
 # Research objective 
 The major research question will answer in this project are:
 
