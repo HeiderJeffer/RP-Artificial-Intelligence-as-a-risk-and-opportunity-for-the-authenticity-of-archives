@@ -44,8 +44,14 @@ RQ2:
 
 The primary objective of this research is to develop a quantitative and qualitative methods to design an effective system to answer RQ 1 and RQ 2.
 
-# Goal
-Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane AI development.
+# Purpose and aims 
+
+- Overall, the scientific significance and novelty of the project responds to international and European incentives for ethical democratising and a more humane AI
+- Ongoing partnership, producing original research, training/teaching  students and other highly qualified personal. 
+- Generating a virtuous circle with: history, archival science, digital humanities, computer science and media technology.
+- Looking for feedback loop: to reinforce and exchange  the knowledge capabilities and ideas with each party.
+
+
  
 
 
