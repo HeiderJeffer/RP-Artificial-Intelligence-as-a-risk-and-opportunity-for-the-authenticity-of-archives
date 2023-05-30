@@ -51,6 +51,20 @@ The primary objective of this research is to develop a quantitative and qualitat
 - Generating a virtuous circle with: history, archival science, digital humanities, computer science and media technology.
 - Looking for feedback loop: to reinforce and exchange  the knowledge capabilities and ideas with each party.
 
+# Background and Related Work
+### MONTRÉAL DECLARATION FOR A RESPONSIBLE DEVELOPMENT OF ARTIFICIALINTELLIGENCE 2018
+AI Tools must respect the following PRINCIPLES:
+1. WELL-BEING PRINCIPLE
+2. RESPECT FOR AUTONOMY PRINCIPLE
+3. PROTECTION OF PRIVACY AND INTIMACY
+4. SOLIDARITY PRINCIPLE
+5. DEMOCRATIC PARTICIPATION PRINCIPLE
+6. EQUITY PRINCIPLE
+7. DIVERSITY INCLUSION PRINCIPLE
+8. CAUTION PRINCIPLE
+9. RESPONSIBILITY PRINCIPLE
+10. SUSTAINABLE DEVELOPMENT PRINCIPLE
+
 
 # Research Method
 
