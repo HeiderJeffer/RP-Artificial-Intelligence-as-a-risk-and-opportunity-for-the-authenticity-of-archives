@@ -77,10 +77,14 @@ From the digitalized records extract the following info.:- Name of the record Ty
 
 
 ### Step 7 AI Techs in cultural heritage analysis
-Use AI tools to track and extract (cultural heritage) topic  from the data (DOC, MP3 and MP4) : Society, Language, Culture, Religion , Geographic, Population, Capita, Political system, 
+- Input the following (DOC, MP3 and MP4) 
+- Extract the following: Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
+- Results: AI cultural heritage analysis
 
 ###  Step 8 AI Techs in humane development
-Use AI tools to track and extract (humane development ) topic  from the data (DOC, MP3 and MP4) to do the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement) 
+- Input the following (DOC, MP3 and MP4)
+- Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
+- Results: AI humane development analysis
 
 ## Finally
 by following the above steps we will answer the RQ1 and RQ2 addressed in this project.
