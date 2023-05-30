@@ -7,6 +7,7 @@ by Phd. Candidate Heider Jeffer
 - Prof. Anna Foka (AF), Principal Investigator
 - Prof. Isto Huvila (IH), Co-Investigator
 
+
 # Why I Chose this Project?
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/5.PNG)
 
@@ -85,9 +86,17 @@ Use AI tools to track and extract (humane development ) topic  from the data (DO
 by following the above steps we will answer the RQ1 and RQ2 addressed in this project.
 
 # # Software Architecture
-
-
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
+
+# Requirements 
+- Python
+- Pandas
+- conda
+- PyTorch
+- NumPy
+- Matlab
+- Scilab
+- Atlas ti
 
 
 
