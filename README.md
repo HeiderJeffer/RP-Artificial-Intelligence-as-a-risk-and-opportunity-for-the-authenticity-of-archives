@@ -89,7 +89,7 @@ at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 # Research Approach
 ## Data collection
 ### Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
-- Step Results records are imported
+- Results Collection A: records are imported
 ### Step 2 Apply inclusion/ exclusion criteria
 
 Inclusion criteria
@@ -104,50 +104,56 @@ Exclusion criteria
 3. Records can not be digitized
 4. Imported from Slideshare, Quora, Twitter Facebook, LinkedIn, personal (or company) blogs
 
-- Step Resluts: inclusion/ exclusion criteria applied
+- Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
-Digitization is the process of converting information into a digital format. 
-- Step Results: Digitalized-Record in (DOC, PNG, MP3, and MP4) format
+
+- Digitization is the process of converting information into a digital format. 
+- Convert the data in (Collection B) into (DOC, PNG, MP3, and MP4) format
+- Results (Collection C): Digitalized-Record in (DOC, PNG, MP3, and MP4) format
 
 ### Step 4 Optimization: optimize quality of Digitalized-Record
-- Step Results: Digitalized-Record with optimal quality
+- Results (Collection D): Digitalized-Record with optimal quality
 
 ### Step 5 Extract the relevant information from the Digitalized-Record 
-- From Digitalized-Record in (DOC, PNG, MP3, and MP4) format, extract the following info
+- from data in (Collection D)
+- extract the following info
     - Name of the record, Type of the Record
     - False Information, cultural heritage,  Human Development
 - Implement (1. Topics modeling 2 clustering 3. K-means)
--Step Results:  Digitalized-Record with relevant information
+- Results (Collection E):  Digitalized-Record with relevant information
 
 ## Data analysis
 
 ### Step 6 AI in False Information analysis
 - To understand the AI applications and how these technologies can support the spread of misinformation (AI-Powered Fake News 2.0).
-- misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer.
-  - AI Attack:
+ - Misinformation = Fake news, False News, Satire news, Disinformation, Misinformation, and Rumer. 
+ - AI Attack:
     - AI who Create Fake Post in Web
     - AI who Spread Fake Post to group of people
-  - AI Defense:
+ - AI Defense:
     - AI Fake News Detector to detect Create Fake Post 
     - AI SocialBot Detector to detect Spread Fake Post 
 
-- Input = DOC, MP3 and MP4
+- from (Collection E) extract the following:
+    - Misinformation
+    - AI Attack 
+    - AI Defense
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Step Results  AI in False Information analysis
+- Results Collection F:  AI in False Information analysis: grouped into (Misinformation, AI Attack, AI Defense)
 
 ### Step 7 AI Techs in cultural heritage analysis
-- Input = DOC, MP3 and MP4
-- Extract the following: Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
+- from data in (Collection E) Extract the following: 
+    - Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Step Results: AI cultural heritage analysis
+- Results (Collection G): AI cultural heritage analysis distributed into identical groups/classes 
 
 ###  Step 8 AI Techs in humane development
 
-- Input = DOC, MP3 and MP4
-- Extract the following: Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
+- from data in (Collection E) Extract the following: 
+        - Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state, (by UN measurement).
 - Implement (1. Topics modeling 2 clustering 3. K-means)
-- Step Results: AI humane development analysis
+- Results Collection H: AI humane development analysis distributed into identical groups/classes 
 
 ## Finally
 by following the above steps we will answer the RQ1 and RQ2 addressed in this project.
