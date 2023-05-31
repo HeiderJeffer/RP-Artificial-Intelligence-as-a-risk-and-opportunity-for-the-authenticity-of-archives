@@ -6,8 +6,6 @@ by Phd. Candidate Heider Jeffer
 - Prof. Saara Talas (ST), Co-Investigator
 - Prof. Anna Foka (AF), Principal Investigator
 - Prof. Isto Huvila (IH), Co-Investigator
-
-
 # Why I Chose this Project?
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/5.PNG)
 
@@ -16,29 +14,21 @@ by Phd. Candidate Heider Jeffer
 Ethics, principles, democracy, equalities, criminal justice and morality  are important human features and AI still grow uncontrollably lack of these features, without any scientific models, or theoretical foundation that could investigate, evaluate, improve and invest in the  AI Techs regarding to  human development 
 - AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now
 - We live in world of AI fake news and propaganda
-
 ## We live in world of AI fake news and propaganda
 ## AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now 
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/2.PNG)
 
-
 - We live in these outcomes, they are the biggest threat modern humans have ever faced, and still happening now in (2023) the time I am writing this presentation, therefore, together, with history, archival science, digital humanities, media technology, and computer science, we should start quickly in this project to address and investigate these challenges and to contribute new knowledge to the fields, as soon as humanly possible.
-
 - Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane development.
-
-
 
 # Research objective 
 The major research question will answer in this project are:
-
 ## RQ1:
-
 - What would AI-based approaches on archival principles look like? 
 - What possibilities do they suggest about humane AI development?
 - Do they counter the “black box” character of AI?
 
 ## RQ2:
-
 - What benefits would an archival AI offer an institution and society? 
 - Could it help future-proof cultural heritage institutions, i.e., foster heritage futures? 
 - Can an archival AI, outside the archival setting, serve public interest (e.g., combating fake news and propaganda)?
@@ -113,9 +103,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 ```
 Name of the record, Type of the Record
 False Information, cultural heritage,  Human Development
-```
-
-    
+``` 
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection E):  Digitalized-Record with relevant information
 
@@ -131,18 +119,14 @@ False Information, cultural heritage,  Human Development
 ```
 Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
 ```
-
- 
 - Implement ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection G): a groups of (AI cultural heritage) distributed into identical classes 
 
 ###  Step 8 AI Techs in humane development
 -  Implement ML/DL in (Collection E) to extract the following:
-
-``
+```
 Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
-``
-
+```
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
