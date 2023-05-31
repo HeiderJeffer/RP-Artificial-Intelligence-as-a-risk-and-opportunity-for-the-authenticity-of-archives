@@ -1,4 +1,8 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my Ph.D. project!</b><br><br>
+
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
 by Phd. Candidate Heider Jeffer
 - Supervisors:
