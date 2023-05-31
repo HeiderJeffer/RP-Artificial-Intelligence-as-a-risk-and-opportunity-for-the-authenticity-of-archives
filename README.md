@@ -109,10 +109,13 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 5 Extract the relevant information from the Digitalized-Record 
 - Implement ML/DL in (Collection D) to extract the following info
+
 ``
     - Name of the record, Type of the Record
     - False Information, cultural heritage,  Human Development
-    ``
+
+``
+
     
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection E):  Digitalized-Record with relevant information
