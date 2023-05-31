@@ -112,6 +112,7 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ``
     - Name of the record, Type of the Record
+    
     - False Information, cultural heritage,  Human Development
 
 ``
