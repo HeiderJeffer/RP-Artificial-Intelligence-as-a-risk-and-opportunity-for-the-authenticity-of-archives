@@ -109,12 +109,16 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 ### Step 6 AI in False Information analysis
 - Implement ML/DL in (Collection E) to extract the following
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/10.PNG)
+
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
+
 - Results (Collection F):  AI in False Information analysis: groups of (Misinformation, AI Attack, AI Defense) distributed into identical classes 
 
 ### Step 7 AI Techs in cultural heritage analysis
-- Implement ML/DL in (Collection E) to extract the following: 
+- Implement ML/DL in (Collection E) to extract the following:
+
         - Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
+
 - Implement ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection G): a groups of (AI cultural heritage) distributed into identical classes 
 
