@@ -99,11 +99,9 @@ Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 5 Extract the relevant information from the Digitalized-Record 
 - Implement ML/DL in (Collection D) to extract the following info
-
-```
-Name of the record, Type of the Record
-False Information, cultural heritage,  Human Development
-``` 
+        - Name of the record, Type of the Record
+        - False Information, cultural heritage,  Human Development
+ 
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection E):  Digitalized-Record with relevant information
 
@@ -116,21 +114,16 @@ False Information, cultural heritage,  Human Development
 
 ### Step 7 AI Techs in cultural heritage analysis
 - Implement ML/DL in (Collection E) to extract the following: 
-```
-Society, Language, Culture, Religion , Geographic, Population, Capita, Political system.
-```
+
+ "Society, Language, Culture, Religion , Geographic, Population, Capita, Political system."
+
 - Implement ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection G): a groups of (AI cultural heritage) distributed into identical classes 
 
 ###  Step 8 AI Techs in humane development
 -  Implement ML/DL in (Collection E) to extract the following:
-```
-Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state,
+"Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state."
 
-Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, 
-
-Transparency state, Access to public info state.
-```
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
