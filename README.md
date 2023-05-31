@@ -125,7 +125,9 @@ Society, Language, Culture, Religion , Geographic, Population, Capita, Political
 ###  Step 8 AI Techs in humane development
 -  Implement ML/DL in (Collection E) to extract the following:
 ```
-Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State, Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
+Country, Condition of Dev,, Empowerments, Education state, Civil rights state, Climate Change state(Sustainability), LGBTQ state, Woman Rights State,
+
+Human Rights State, Equal opportunity, Health Care system, Criminal Justice State, Transparency state, Access to public info state.
 ```
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
