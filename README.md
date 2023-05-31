@@ -2,8 +2,6 @@
 <h3 align="center">I am a ML/DL and HCI developer and software architect</h3>
 <h3 align="center">Welcome to my Ph.D project</h3>
 
-<p align="center">
-    <b>Welcome to my Ph.D. project!</b><br><br>
 
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
 by Phd. Candidate Heider Jeffer
