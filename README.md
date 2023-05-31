@@ -1,5 +1,5 @@
-<h1 align="center">Hi guys <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Heider Jeffer</h1>
-<h3 align="center">I am a ML/DL and HCI developer and software architect</h3>
+<h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I am Heider Jeffer</h1>
+<h3 align="center">I am an AI/ML/DL and HCI developer and software architect</h3>
 <h3 align="center">Welcome to my Ph.D project</h3>
 
 
