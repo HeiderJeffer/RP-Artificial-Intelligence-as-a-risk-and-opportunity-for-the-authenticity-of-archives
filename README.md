@@ -136,7 +136,7 @@ Country, Condition of Dev,, Empowerments, Education state, Civil rights state, C
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
-
+### Click the Click play button
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/videos/research%20finding.gif)
 
 ## Research Finding
