@@ -1,5 +1,5 @@
-<h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I'm Heider Jeffer</h1> 
-<h3 align="center">I am an AI/ML/DL and HCI developer and software architect</h3>
+<h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I am Heider Jeffer</h1>
+<h3 align="center">| Ph.D Student | Developer | Software Engineer | Software Architect |</p> | Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction|</h3>
 <h3 align="center">Welcome to my Ph.D project</h3>
 
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
