@@ -136,11 +136,14 @@ Country, Condition of Dev,, Empowerments, Education state, Civil rights state, C
 - Implement ML/DL to find (1. Topics modeling 2 clustering 3. K-means)
 - Results (Collection H): AI humane development analysis distributed into identical groups/classes 
 
-## Finding Study
+### Click play button 
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/videos/research%20finding.gif)
+
+## Research Finding
 Research finding  showing in diagram (Collection F) , (Collection G), and (Collection H) are the answers for RQ1 and RQ2 that we addressed in this project.
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/11.PNG)
 
-# # Software Architecture
+# Software Architecture
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
 
 # Requirements
