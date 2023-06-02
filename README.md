@@ -12,8 +12,7 @@ by PhD. Candidate Heider Jeffer
 - Prof. Isto Huvila (IH), Co-Investigator
 
 
- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here Project Laboratory</a>
- , I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
+ <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here is the Project Laboratory</a>, I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project.
 
 # Why I Chose this Project?
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/5.PNG)
@@ -158,18 +157,14 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 - QDA: Atlas ti
 - Version control: Git
 
-
 # Project Laboratory
+I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Deep%20Learning%20with%20PyTorch.ipynb">Deep Learning with PyTorch</a>
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Handwritten%20Digit%20Recognition.ipynb"> Handwritten Digit Recognition</a>
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Retrieving%20Datasets%20in%20TensorFlow.ipynb">Retrieving Datasets in TensorFlow</a>
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Fake%20News%20Detection%20in%20Python.ipynb">Fake News Detection in Python</a>
 
-<body>
-<p>I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:</p>
-<p>1. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Deep%20Learning%20with%20PyTorch.ipynb">Deep Learning with PyTorch</a>
-<p>2. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Handwritten%20Digit%20Recognition.ipynb"> Handwritten Digit Recognition</a>
-<p>3. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
-<p>4. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Retrieving%20Datasets%20in%20TensorFlow.ipynb">Retrieving Datasets in TensorFlow</a>
-<p>5. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Fake%20News%20Detection%20in%20Python.ipynb">Fake News Detection in Python</a>
-</p>
-</body>
 
 
 
