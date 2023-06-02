@@ -12,7 +12,7 @@ by Phd. Candidate Heider Jeffer
 - Prof. Isto Huvila (IH), Co-Investigator
 
 
- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Deep%20Learning%20with%20PyTorch.ipynb">Here</a>
+ <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here Project Laboratory</a>
  , I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
 
 # Why I Chose this Project?
