@@ -15,10 +15,10 @@ by Phd. Candidate Heider Jeffer
 
 <body>
 <p>I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:</p>
-</body>
-
-<body>
-<p>1.&nbsp;<a href="https://colab.research.google.com/drive/1QERCSFXXsJAqYkr9aBmHoW2YuYJm3qAK#scrollTo=47f9ac15-0eb9-4742-a42c-257731251000">Deep Learning with PyTorch</a></p>
+<p>1. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Deep%20Learning%20with%20PyTorch.ipynb">Deep Learning with PyTorch</a>
+<p>2. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Handwritten%20Digit%20Recognition.ipynb"> Handwritten Digit Recognition</a>
+<p>2. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
+</p>
 </body>
 
 
