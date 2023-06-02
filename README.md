@@ -10,6 +10,15 @@ by Phd. Candidate Heider Jeffer
 - Prof. Saara Talas (ST), Co-Investigator
 - Prof. Anna Foka (AF), Principal Investigator
 - Prof. Isto Huvila (IH), Co-Investigator
+
+# Project Laboratory
+Here, I am working and making experiments, to develop and design apps that reflect the nature of this project:
+<body>
+<p>1.&nbsp;<a href="https://colab.research.google.com/drive/1QERCSFXXsJAqYkr9aBmHoW2YuYJm3qAK#scrollTo=47f9ac15-0eb9-4742-a42c-257731251000">Deep Learning with PyTorch</a></p>
+</body>
+
+
+
 # Why I Chose this Project?
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/5.PNG)
 
