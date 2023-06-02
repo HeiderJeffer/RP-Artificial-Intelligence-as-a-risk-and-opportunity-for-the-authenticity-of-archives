@@ -12,7 +12,7 @@ by PhD. Candidate Heider Jeffer
 - Prof. Isto Huvila (IH), Co-Investigator
 
 
-<a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/raw/main/presentation/PhD%20position%20at%20Linnaeus%20University%20by%20Heider%20Jeffer.pptx"> Here </a>, you can downnload my short presentation of a potential research plan.
+<a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/raw/main/presentation/PhD%20position%20at%20Linnaeus%20University%20by%20Heider%20Jeffer.pptx">Here</a>, you can downnload my short presentation of a potential research plan.
 
 
  <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here is the Project Laboratory</a>, I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project.
