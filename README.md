@@ -3,7 +3,7 @@
 <h5 align="center">Welcome to my Ph.D project</h5>
 
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
-by Phd. Candidate Heider Jeffer 
+by PhD. Candidate Heider Jeffer 
 - Supervisors:
 - Prof. Koraljka Golub (KG), Principal Investigator
 - Prof. Marcelo Milrad (MM), Co-Investigator
