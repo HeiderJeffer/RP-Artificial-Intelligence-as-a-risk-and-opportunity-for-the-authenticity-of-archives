@@ -151,12 +151,6 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 # Software Architecture
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
 
-# Requirements
-- Languages: Python, Bash
-- ML/DL: PyTorch, NumPy, Pandas, Conda, Matlab, Scilab, Transkribus
-- QDA: Atlas ti
-- Version control: Git
-
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Deep%20Learning%20with%20PyTorch.ipynb">Deep Learning with PyTorch</a>
