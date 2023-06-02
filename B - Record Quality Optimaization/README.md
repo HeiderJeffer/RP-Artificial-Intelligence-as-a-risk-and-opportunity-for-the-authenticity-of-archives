@@ -1,3 +1,0 @@
-# Part B: AI TECHS and quality assurance to the records
-
-1. recto verso registration: To apply quality assurance criteria (recto verso registration) to improve scanned-image quality resolution,  The AI tech will detect the missing digitized pages, or location of the bleed-through defect over a page, it is an efficient way to restore or evaluate the bleed-through of a scanned images (Bianco et al., 2009).  The output of this step is scanned–image with good resolution
