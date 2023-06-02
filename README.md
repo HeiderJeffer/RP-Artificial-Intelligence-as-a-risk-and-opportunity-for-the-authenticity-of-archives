@@ -161,6 +161,9 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Retrieving%20Datasets%20in%20scikit-learn%20and%20Seaborn.ipynb">Retrieving Datasets in scikit-learn and Seaborn</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Make%20Predictions%20with%20Keras.ipynb">Make Predictions with Keras</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Image%20Augmentation%20for%20Deep%20Learning%20with%20Keras.ipynb">Image Augmentation for Deep Learning with Keras</a>
+-  <a href="https://github.com/HeiderJeffer/Develop-a-GAN-for-Generating-MNIST-Handwritten-Digits/blob/main/Develop%20a%20GAN%20for%20Generating%20MNIST%20Handwritten%20Digits.ipynb">Develop a GAN for Generating MNIST Handwritten Digits</a>
+
+
 
 
 
