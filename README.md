@@ -19,6 +19,10 @@ by Phd. Candidate Heider Jeffer
 <p>2. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Handwritten%20Digit%20Recognition.ipynb"> Handwritten Digit Recognition</a>
 <p>3. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
 <p>4. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Retrieving%20Datasets%20in%20TensorFlow.ipynb">Retrieving Datasets in TensorFlow</a>
+<p>5. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Fake%20News%20Detection%20in%20Python.ipynb">Fake News Detection in Python</a>
+ 
+
+ 
 </p>
 </body>
 
