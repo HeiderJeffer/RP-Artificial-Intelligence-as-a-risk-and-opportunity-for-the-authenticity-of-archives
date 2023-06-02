@@ -164,6 +164,9 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Retrieving%20Datasets%20in%20TensorFlow.ipynb">Retrieving Datasets in TensorFlow</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Fake%20News%20Detection%20in%20Python.ipynb">Fake News Detection in Python</a>
+- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/AI-ML-DL/Retrieving%20Datasets%20in%20scikit-learn%20and%20Seaborn.ipynb">Retrieving Datasets in scikit-learn and Seaborn</a>
+
+
 
 
 
