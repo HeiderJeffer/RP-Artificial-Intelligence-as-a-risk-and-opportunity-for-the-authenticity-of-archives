@@ -2,9 +2,8 @@
 <h5 align="center"> Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</p>Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</h5>
 <h5 align="center">Welcome to my Ph.D project</h5>
 
-<img src = "https://github-vistors-counter.onrender.com/github?username=<your github username>" alt = "Visitors-Counter"/>
-
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
+<img src = "https://github-vistors-counter.onrender.com/github?username=<your github username>" alt = "Visitors-Counter"/>
 by PhD. Candidate Heider Jeffer 
 - Supervisors:
 - Prof. Koraljka Golub (KG), Principal Investigator
