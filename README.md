@@ -94,7 +94,7 @@ AI Tools must respect the following PRINCIPLES:
 
 ### AI Technologies
 is a variety of digital technologies and methods for automated information processing and data mining. 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/6.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/6.PNG)
 
 ### Finding study
 - Study1: convert scanned manuscripts to a format that can be accessed by information retrieval systems or for further analysis.
@@ -110,18 +110,18 @@ Einstein's 1925 manuscript, Study 1 & 2 experiments  by Heider Jeffer – Transk
 
 at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/7.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/7.PNG)
 
 # Research Approach
 This study is designed to be exploratory. The overall data collection and analysis process employed in the study showing in next UML diagram and explained in detail in the following text.
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/8.png)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/8.png)
 
 ## Data collection
 ### Step 1 Import records from the Swedish National Archives and the Swedish National Heritage
 - Results Collection A: records are imported
 ### Step 2 Apply inclusion/ exclusion criteria
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/9.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/9.PNG)
 Resluts  (Collection B): inclusion/ exclusion criteria applied
 
 ### Step 3 Digitalization:  convert record into computable formats (DOC, PNG, MP3, and MP4)
@@ -146,7 +146,7 @@ False Information, cultural heritage,  Human Development
 ## Data analysis
 ### Step 6 AI in False Information analysis
 - Implement ML/DL in (Collection E) to extract the following
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/10.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/10.PNG)
 
 - Implement  ML/DL to find: (1. Topics modeling 2 clustering 3. K-means)
 
@@ -174,17 +174,17 @@ Country, Condition of Dev,, Empowerments, Education state, Civil rights state, C
 
 ## Research Finding
 Research finding  showing in diagram (Collection F) , (Collection G), and (Collection H) are the answers for RQ1 and RQ2 that we addressed in this project.
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/11.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/11.PNG)
 
 # Software Architecture
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/image/1.PNG)
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/1.PNG)
 
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
 
 <body>
 <ul>
-	<li><!-- Drive options:{"ids":["10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza","1MaIKV8Mg3vTTUlAgRPzmei35iysU4js1","1-5h4L_MwzdXiaQSkxAdOsfmvRxLs_QS7","1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF","10V51R-AYsEieCv1La6u4Mm77g_v25c2p","10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8","107LB1ruVHxoednc23CC0FkiHpkIHlPCB","10Bf6DpXQvF7VEhCG_0jINPpRQmtq6ebz","1joAu4NNmcrAjdNhsLssI2yrA0njHt8K_","1Au_XllB7BbKVKldkYxEcHnnwKlJEwuDM","133XV4iOLdSVKzLrUf6HwieKsVrRVn-Zz","106ik795z2ckslmftzYSFpJ8mVJbFHo1s","1LTPQHnWDm2cvfUzWxFVF6613r56C6mpN","1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_","18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI","10Nz-dwoVAyikRDnO9TGq98whwsMU-pDi","1lZhqIfoEIySlh6ondhmAoYXokaVIyL9k"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza&amp;usp=drive_copy">Binary classification spot check script.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza&amp;usp=drive_copy">Binary classification spot check script.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF&amp;usp=drive_copy">Deep Learning with PyTorch.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=10V51R-AYsEieCv1La6u4Mm77g_v25c2p&amp;usp=drive_copy">Develop a Framework to Spot-Check Machine Learning Algorithms in Python.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8&amp;usp=drive_copy">Develop a GAN for Generating MNIST Handwritten Digits.ipynb</a></li>
