@@ -35,7 +35,9 @@ by PhD. Candidate Heider Jeffer
 </table>
 </body>
 
-<a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/raw/main/presentation/PhD%20position%20at%20Linnaeus%20University%20by%20Heider%20Jeffer.pptx">Here</a>, you can downnload my short presentation of a potential research plan. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here is the Project Laboratory</a>.
+<a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/raw/main/presentation/PhD%20position%20at%20Linnaeus%20University%20by%20Heider%20Jeffer.pptx">Here</a>, you can downnload my short presentation of a potential research plan. 
+
+And <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here is the Project Laboratory</a>.
 
 
 I creat an AI/ML/DL Project Lab. Please Pay a Visit for our <a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax?usp=drive_link">AI/ML/DL Project Lab</a> , you can find all  AI/ML/DL apps and codes that I write for this project, I am working and making experiments, to develop and design apps that reflect the nature of this project.
