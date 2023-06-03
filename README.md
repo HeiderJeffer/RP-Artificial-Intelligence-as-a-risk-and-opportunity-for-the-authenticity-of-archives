@@ -5,10 +5,9 @@
 -->
 
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
+<p><img alt="Visitors-Counter" src="https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University.git" /></p>
 
 by PhD. Candidate Heider Jeffer 
-
-<p><img alt="Visitors-Counter" src="https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University.git" /></p>
 
 - Supervisors:
 - Prof. Koraljka Golub (KG), Principal Investigator
