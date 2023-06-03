@@ -196,5 +196,6 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 	<li><a href="https://drive.google.com/open?id=1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI&amp;usp=drive_copy">Retrieving Datasets in TensorFlow.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=1lZhqIfoEIySlh6ondhmAoYXokaVIyL9k&amp;usp=drive_copy">Visualizing a PyTorch Model.ipynb</a></li>
+	<li><!-- Drive options:{"ids":["11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I&amp;usp=drive_copy">Hate Speech Detection ML.ipynb</a></li>
 </ul>
 </body>
