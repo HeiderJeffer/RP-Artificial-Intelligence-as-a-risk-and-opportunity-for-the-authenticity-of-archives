@@ -176,7 +176,7 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
-- <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Deep%20Learning%20with%20PyTorch.ipynb">Deep Learning with PyTorch</a>
+- <a href="https://github.com/HeiderJeffer/Deep-Learning-with-PyTorch">Deep Learning with PyTorch</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Fake%20News%20Detection%20in%20Python.ipynb">Fake News Detection in Python</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Handwritten%20Digit%20Recognition.ipynb"> Handwritten Digit Recognition</a>
 - <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/Project-Laboratory/Generating%20Datasets%20in%20scikit-learn.ipynb">Generating Datasets in scikit-learn</a>
