@@ -182,8 +182,9 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
 
+<body>
 <ul>
-	<li><!-- Drive options:{"ids":["11jYJxjcBVgTlaaYccAwBpyh506ctka1Z"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=11jYJxjcBVgTlaaYccAwBpyh506ctka1Z&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></li>
+	<li><!-- Drive options:{"ids":["11jYJxjcBVgTlaaYccAwBpyh506ctka1Z"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://colab.research.google.com/drive/11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I">Twitter Hate Speech Detection Using Machine Learning</a></li>
 	<li><a href="https://drive.google.com/open?id=10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza&amp;usp=drive_copy">Binary classification spot check script.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF&amp;usp=drive_copy">Deep Learning with PyTorch.ipynb</a></li>
 	<li><a href="https://drive.google.com/open?id=10V51R-AYsEieCv1La6u4Mm77g_v25c2p&amp;usp=drive_copy">Develop a Framework to Spot-Check Machine Learning Algorithms in Python.ipynb</a></li>
