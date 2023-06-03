@@ -12,14 +12,28 @@
 
 by PhD. Candidate Heider Jeffer 
 
-
-- Supervisors:
-- Prof. Koraljka Golub (KG), Principal Investigator
-- Prof. Marcelo Milrad (MM), Co-Investigator
-- Prof. Saara Talas (ST), Co-Investigator
-- Prof. Anna Foka (AF), Principal Investigator
-- Prof. Isto Huvila (IH), Co-Investigator
-
+<body>
+<p><strong>Supervisors</strong></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td><strong><span style="font-size:12px;">Prof. Koraljka Golub(KG)<br />
+			Principal Investigator</span></strong></td>
+			<td><strong><span style="font-size:12px;">Prof. Marcelo Milrad (MM)<br />
+			Co-Investigator</span></strong></td>
+			<td><strong><span style="font-size:12px;">Prof. Saara Talas (ST)<br />
+			Co-Investigator</span></strong></td>
+		</tr>
+		<tr>
+			<td><strong><span style="font-size:12px;">Prof. Anna Foka (AF)<br />
+			Principal Investigator</span></strong></td>
+			<td><strong><span style="font-size:12px;">Prof. Isto Huvila (IH)<br />
+			Co-Investigator</span></strong></td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</body>
 
 <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/raw/main/presentation/PhD%20position%20at%20Linnaeus%20University%20by%20Heider%20Jeffer.pptx">Here</a>, you can downnload my short presentation of a potential research plan. <a href="https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/README.md#project-laboratory">Here is the Project Laboratory</a>, I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project.
 
