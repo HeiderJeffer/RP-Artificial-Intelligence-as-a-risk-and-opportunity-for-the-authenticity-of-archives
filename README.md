@@ -2,7 +2,7 @@
 <h5 align="center"> Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</p>Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</h5>
 <h5 align="center">Welcome to my Ph.D project</h5>
 
-<img src="https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fwww%2Egithub%2Ecom%2FHeiderJeffer%2FPh%2ED-position-at-Linnaeus-University&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=upper" alt="Views Counter">
+<img src = "https://github-vistors-counter.onrender.com/github?username=<your github username>" alt = "Visitors-Counter"/>
 
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
 by PhD. Candidate Heider Jeffer 
