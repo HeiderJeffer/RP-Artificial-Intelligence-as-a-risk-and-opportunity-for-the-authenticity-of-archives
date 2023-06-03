@@ -4,7 +4,11 @@
 <h5 align="center">Welcome to my Ph.D project</h5>
 -->
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
-<p><img alt="Visitors-Counter" src="https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University.git" /></p>
+
+
+<p><img alt="Visitors-Counter" src="https://github-vistors-counter.onrender.com/github?username=Ph.D-position-at-Linnaeus-University" /></p>
+
+
 by PhD. Candidate Heider Jeffer 
 
 
