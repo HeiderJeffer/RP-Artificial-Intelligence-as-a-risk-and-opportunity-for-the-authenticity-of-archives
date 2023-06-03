@@ -181,29 +181,20 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
-- Deep Learning with PyTorch https://drive.google.com/file/d/1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF/view?usp=drive_link
-- Fake News Detection in Python https://drive.google.com/file/d/107LB1ruVHxoednc23CC0FkiHpkIHlPCB/view?usp=drive_link
-- Handwritten Digit Recognition https://drive.google.com/file/d/1Au_XllB7BbKVKldkYxEcHnnwKlJEwuDM/view?usp=drive_link
-- Generating Datasets in scikit-learn https://drive.google.com/file/d/1joAu4NNmcrAjdNhsLssI2yrA0njHt8K_/view?usp=drive_link
-- Retrieving Datasets in TensorFlow https://drive.google.com/file/d/18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI/view?usp=drive_link
-- Retrieving Datasets in scikit-learn and Seaborn https://drive.google.com/file/d/1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_/view?usp=drive_link
-- Make Predictions with Keras https://drive.google.com/file/d/1LTPQHnWDm2cvfUzWxFVF6613r56C6mpN/view?usp=drive_link
-- Image Augmentation for Deep Learning with Keras https://drive.google.com/file/d/133XV4iOLdSVKzLrUf6HwieKsVrRVn-Zz/view?usp=drive_link
-- Develop a GAN for Generating MNIST Handwritten Digits https://drive.google.com/file/d/10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8/view?usp=drive_link
-- Develop a Framework to Spot-Check Machine Learning Algorithms in Python https://drive.google.com/file/d/10V51R-AYsEieCv1La6u4Mm77g_v25c2p/view?usp=drive_link
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<body>
+<ul>
+	<li><!-- Drive options:{"ids":["10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza","1MaIKV8Mg3vTTUlAgRPzmei35iysU4js1","1-5h4L_MwzdXiaQSkxAdOsfmvRxLs_QS7","1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF","10V51R-AYsEieCv1La6u4Mm77g_v25c2p","10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8","107LB1ruVHxoednc23CC0FkiHpkIHlPCB","10Bf6DpXQvF7VEhCG_0jINPpRQmtq6ebz","1joAu4NNmcrAjdNhsLssI2yrA0njHt8K_","1Au_XllB7BbKVKldkYxEcHnnwKlJEwuDM","133XV4iOLdSVKzLrUf6HwieKsVrRVn-Zz","106ik795z2ckslmftzYSFpJ8mVJbFHo1s","1LTPQHnWDm2cvfUzWxFVF6613r56C6mpN","1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_","18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI","10Nz-dwoVAyikRDnO9TGq98whwsMU-pDi","1lZhqIfoEIySlh6ondhmAoYXokaVIyL9k"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza&amp;usp=drive_copy">Binary classification spot check script.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF&amp;usp=drive_copy">Deep Learning with PyTorch.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=10V51R-AYsEieCv1La6u4Mm77g_v25c2p&amp;usp=drive_copy">Develop a Framework to Spot-Check Machine Learning Algorithms in Python.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8&amp;usp=drive_copy">Develop a GAN for Generating MNIST Handwritten Digits.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=107LB1ruVHxoednc23CC0FkiHpkIHlPCB&amp;usp=drive_copy">Fake News Detection in Python.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1joAu4NNmcrAjdNhsLssI2yrA0njHt8K_&amp;usp=drive_copy">Generating Datasets in scikit-learn.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1Au_XllB7BbKVKldkYxEcHnnwKlJEwuDM&amp;usp=drive_copy">Handwritten Digit Recognition.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=133XV4iOLdSVKzLrUf6HwieKsVrRVn-Zz&amp;usp=drive_copy">Image Augmentation for Deep Learning with Keras.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1LTPQHnWDm2cvfUzWxFVF6613r56C6mpN&amp;usp=drive_copy">Make Predictions with Keras.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI&amp;usp=drive_copy">Retrieving Datasets in TensorFlow.ipynb</a></li>
+	<li><a href="https://drive.google.com/open?id=1lZhqIfoEIySlh6ondhmAoYXokaVIyL9k&amp;usp=drive_copy">Visualizing a PyTorch Model.ipynb</a></li>
+</ul>
+</body>
