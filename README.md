@@ -179,21 +179,24 @@ Research finding  showing in diagram (Collection F) , (Collection G), and (Colle
 # Project Laboratory
 I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/DLthat codes that I write for this project. I am working and making experiments, to develop and design apps that reflect the nature of this project:
 
+
 <body>
 <ul>
-	<li><!-- Drive options:{"ids":["11jYJxjcBVgTlaaYccAwBpyh506ctka1Z"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://colab.research.google.com/drive/11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I">Twitter Hate Speech Detection Using Machine Learning</a></li>
-	<li><a href="https://drive.google.com/open?id=10IwU-0WGIj100AoR1DOyb6ho5eNc0Gza&amp;usp=drive_copy">Binary classification spot check script.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1wP32RBZMeJve8xCd4b6fJdrCqhKowCqF&amp;usp=drive_copy">Deep Learning with PyTorch.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=10V51R-AYsEieCv1La6u4Mm77g_v25c2p&amp;usp=drive_copy">Develop a Framework to Spot-Check Machine Learning Algorithms in Python.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=10RQDl3TJp4kgRAT9ATlVfayW_i5UKTu8&amp;usp=drive_copy">Develop a GAN for Generating MNIST Handwritten Digits.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=107LB1ruVHxoednc23CC0FkiHpkIHlPCB&amp;usp=drive_copy">Fake News Detection in Python.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1joAu4NNmcrAjdNhsLssI2yrA0njHt8K_&amp;usp=drive_copy">Generating Datasets in scikit-learn.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1Au_XllB7BbKVKldkYxEcHnnwKlJEwuDM&amp;usp=drive_copy">Handwritten Digit Recognition.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=133XV4iOLdSVKzLrUf6HwieKsVrRVn-Zz&amp;usp=drive_copy">Image Augmentation for Deep Learning with Keras.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1LTPQHnWDm2cvfUzWxFVF6613r56C6mpN&amp;usp=drive_copy">Make Predictions with Keras.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1QTJK28Vwmjia5mbWI6VuG70Xi_VROu7_&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=18ml6NqFpmQtd2ezlPGDu7Qo4Lw73p6TI&amp;usp=drive_copy">Retrieving Datasets in TensorFlow.ipynb</a></li>
-	<li><a href="https://drive.google.com/open?id=1lZhqIfoEIySlh6ondhmAoYXokaVIyL9k&amp;usp=drive_copy">Visualizing a PyTorch Model.ipynb</a></li>
-	<li><!-- Drive options:{"ids":["11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=11-yBVKEt9Mx58omyxUf6ATkNTqYuyi2I&amp;usp=drive_copy">Hate Speech Detection ML.ipynb</a></li>
+	<li><!-- Drive options:{"ids":["12vAiB4h6QX5nDNR9f-kTa4vl2SeTGsQ7","12rMwEF773f079ApHZ7L899bAIBqTfrCK","12qLUBS5YxJF159lBFjik_2XUa15OG4Hb","12o9PLbM2K6o8Eo6-FA3Rhj7bei7wq0Dp","12mIgeOi8pS0CbQ3LcmyzZBhdoMrBmjgX","12lPAcmUTY9Ti_hkswDOA9SbBwfelk3qE","12bR14g7RDhRfVgMyQSDaEA_ccPk7TlGX","12_-7rdHdPuXO7TEcxit7_IeAAI3azJge","12Pl6jYuTnf6QCC0VmNaJ-zSrlWQ7tPNZ","12NsEh9vebfsh-tMpTzG881564C-tobKl","12NjZTOC3UHQK5rgVlEzG3MaqZsaUK5Rv","12EEd-VqYh0bzYwyNrJAz4FxRr4FrL1NQ","11jYJxjcBVgTlaaYccAwBpyh506ctka1Z","11NtHJprkvPUpkTk2z115BlZhEeHyDH2M"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=12vAiB4h6QX5nDNR9f-kTa4vl2SeTGsQ7&amp;usp=drive_copy">Develop a Framework to Spot-Check Machine Learning Algorithms in Python</a></li>
+	<li><a href="https://drive.google.com/open?id=12rMwEF773f079ApHZ7L899bAIBqTfrCK&amp;usp=drive_copy">Deep Learning with PyTorch</a></li>
+	<li><a href="https://drive.google.com/open?id=12qLUBS5YxJF159lBFjik_2XUa15OG4Hb&amp;usp=drive_copy">Binary classification spot check script</a></li>
+	<li><a href="https://drive.google.com/open?id=12o9PLbM2K6o8Eo6-FA3Rhj7bei7wq0Dp&amp;usp=drive_copy">Visualizing a PyTorch Model</a></li>
+	<li><a href="https://drive.google.com/open?id=12mIgeOi8pS0CbQ3LcmyzZBhdoMrBmjgX&amp;usp=drive_copy">Retrieving Datasets in TensorFlow</a></li>
+	<li><a href="https://drive.google.com/open?id=12lPAcmUTY9Ti_hkswDOA9SbBwfelk3qE&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn</a></li>
+	<li><a href="https://drive.google.com/open?id=12bR14g7RDhRfVgMyQSDaEA_ccPk7TlGX&amp;usp=drive_copy">Make Predictions with Keras</a></li>
+	<li><a href="https://drive.google.com/open?id=12_-7rdHdPuXO7TEcxit7_IeAAI3azJge&amp;usp=drive_copy">Develop a GAN for Generating MNIST Handwritten Digits</a></li>
+	<li><a href="https://drive.google.com/open?id=12Pl6jYuTnf6QCC0VmNaJ-zSrlWQ7tPNZ&amp;usp=drive_copy">Generating Datasets in scikit-learn</a></li>
+	<li><a href="https://drive.google.com/open?id=12NsEh9vebfsh-tMpTzG881564C-tobKl&amp;usp=drive_copy">Handwritten Digit Recognition</a></li>
+	<li><a href="https://drive.google.com/open?id=12NjZTOC3UHQK5rgVlEzG3MaqZsaUK5Rv&amp;usp=drive_copy">Image Augmentation for Deep Learning with Keras</a></li>
+	<li><a href="https://drive.google.com/open?id=12EEd-VqYh0bzYwyNrJAz4FxRr4FrL1NQ&amp;usp=drive_copy">Fake News Detection in Python</a></li>
+	<li><a href="https://drive.google.com/open?id=11jYJxjcBVgTlaaYccAwBpyh506ctka1Z&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></li>
+	<li><a href="https://drive.google.com/open?id=11NtHJprkvPUpkTk2z115BlZhEeHyDH2M&amp;usp=drive_copy">Hate Speech Detection Using ML Python</a></li>
 </ul>
 </body>
+
+
