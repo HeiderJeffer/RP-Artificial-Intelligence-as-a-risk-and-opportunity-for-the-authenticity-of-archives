@@ -5,12 +5,12 @@
 -->
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
  
- 
+ <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University" alt = "Visitors-Counter"/>
-
-
+</body>
+<body>
 by PhD. Candidate Heider Jeffer 
-
+</body>
 <body>
 <p><strong>Supervisors</strong></p>
 <table border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
