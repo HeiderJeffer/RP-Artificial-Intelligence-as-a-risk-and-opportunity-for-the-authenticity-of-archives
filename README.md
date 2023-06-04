@@ -186,7 +186,6 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 
 
 
-
 <body>
 <ul>
 	<li><!-- Drive options:{"ids":["12rMwEF773f079ApHZ7L899bAIBqTfrCK","12EEd-VqYh0bzYwyNrJAz4FxRr4FrL1NQ","12qLUBS5YxJF159lBFjik_2XUa15OG4Hb","12_-7rdHdPuXO7TEcxit7_IeAAI3azJge","12Pl6jYuTnf6QCC0VmNaJ-zSrlWQ7tPNZ","12NsEh9vebfsh-tMpTzG881564C-tobKl","11NtHJprkvPUpkTk2z115BlZhEeHyDH2M","12NjZTOC3UHQK5rgVlEzG3MaqZsaUK5Rv","12bR14g7RDhRfVgMyQSDaEA_ccPk7TlGX","12lPAcmUTY9Ti_hkswDOA9SbBwfelk3qE","12mIgeOi8pS0CbQ3LcmyzZBhdoMrBmjgX","11jYJxjcBVgTlaaYccAwBpyh506ctka1Z","12o9PLbM2K6o8Eo6-FA3Rhj7bei7wq0Dp","150fmQJ0IxDPMZ_7uWgclyyObaAfy2hsd"],"isCopyOperation":true,"isPlainTextTitle":false} --><span style="font-size:12px;"><a href="https://drive.google.com/open?id=12rMwEF773f079ApHZ7L899bAIBqTfrCK&amp;usp=drive_copy">Deep Learning with PyTorch</a></span></li>
@@ -202,7 +201,6 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=12mIgeOi8pS0CbQ3LcmyzZBhdoMrBmjgX&amp;usp=drive_copy">Retrieving Datasets in TensorFlow</a></span></li>
 	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=11jYJxjcBVgTlaaYccAwBpyh506ctka1Z&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></span></li>
 	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=12o9PLbM2K6o8Eo6-FA3Rhj7bei7wq0Dp&amp;usp=drive_copy">Visualizing a PyTorch Model</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=150fmQJ0IxDPMZ_7uWgclyyObaAfy2hsd&amp;usp=drive_copy">requirements.txt</a></span></li>
 </ul>
 </body>
 
