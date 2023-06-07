@@ -173,7 +173,8 @@ Country, Condition of Dev,, Empowerments, Education state, Civil rights state, C
 
 
 
-## Research Finding
+## Expected Results
+
 Research finding  showing in diagram (Collection F) , (Collection G), and (Collection H) are the answers for RQ1 and RQ2 that we addressed in this project.
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/11.PNG)
 
