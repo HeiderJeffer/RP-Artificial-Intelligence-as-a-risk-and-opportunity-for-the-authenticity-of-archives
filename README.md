@@ -120,12 +120,7 @@ This study is designed to be exploratory. The overall data collection and analys
 ![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/8.png)
 
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/11.jpg)
-
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/12.jpg)
-
-
-
+![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/11-a.jpg)
 
 
 ## Data collection
