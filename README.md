@@ -190,24 +190,25 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 
 
 <body>
-<ol>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1KZ1tBQfw4gm9cM-xQJzRmkOI0sS7pmgQ&amp;usp=drive_copy">10 Clustering Algorithms With Python</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1IPJLTViRdZ86pKUexGEnvLFy_TWN4DZQ&amp;usp=drive_copy">Deep Learning with PyTorch</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1IUsTBvtrkpGQmSwyPIa2XajjVcLCxNQS&amp;usp=drive_copy">Fake News Detection in Python</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1JUZgPES9XU7g-fdyOzTyzLrBmhXWTvn2&amp;usp=drive_copy">GAN for Generating MNIST Handwritten Digits</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1JOJSVkCiwj-00KWIDrPGr91W0hxmRdwr&amp;usp=drive_copy">Generating Datasets in scikit-learn</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1JE7vUN4a3Invtp4TYFLlAkqX7KoqOjBK&amp;usp=drive_copy">Handwritten Digit Recognition Using Convolutional Neural Networks in Python with Keras</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1JD4WWraG5xwclkHhgjL4Zq6Rn9zmGPEO&amp;usp=drive_copy">Handwritten Digit Recognition with LeNet5 Model in PyTorch</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1J9Y2dBofM7xBOe1axXPlGTZ8lA3LBw0a&amp;usp=drive_copy">Hate Speech Detection Using ML Python</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1J9QnwH5mXOwns9xwoUz0Au6zhCRGDfJD&amp;usp=drive_copy">Image Augmentation for Deep Learning with Keras</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1J4KFIovusmRAP2gbCyvhL3mJNTwxm8NG&amp;usp=drive_copy">Make Predictions with Keras</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1J1qGrEKu0B6dv2m6CTHMn0_WSh4owW68&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1Iyl-FcXZHtlfjycTYVKLJtQzKIdD7Nt3&amp;usp=drive_copy">Retrieving Datasets in TensorFlow</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1yD0BAbhjR_GQaJ6cBnHmaoQBcbyvJ9-4&amp;usp=drive_copy">Semi-Supervised Learning With Label Spreading</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1IxrwwVpzf8FQ6J0S2wf0spoALOYgBqwe&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></span></li>
-	<li><span style="font-size:12px;"><a href="https://drive.google.com/open?id=1Kbkbf1weQjGpbV03eqE-LioAl9fvwFmi&amp;usp=drive_copy">Visualizing a PyTorch Model</a></span></li>
-</ol>
+<ul>
+	<li><a href="https://drive.google.com/open?id=1-D-5VgGF6S0DUoacqp729ownUjhsW2CW&amp;usp=drive_copy">Monte Carlo Simulation and calculate complexity metrics</a></li>
+	<li><a href="https://drive.google.com/open?id=1QQTI1IHX1aLMeTzWJhYn7VrFh-p_Nmpi&amp;usp=drive_copy">.ipynb_checkpoints</a></li>
+	<li><a href="https://drive.google.com/open?id=1yD0BAbhjR_GQaJ6cBnHmaoQBcbyvJ9-4&amp;usp=drive_copy">Semi-Supervised Learning With Label Spreading</a></li>
+	<li><a href="https://drive.google.com/open?id=1IxrwwVpzf8FQ6J0S2wf0spoALOYgBqwe&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></li>
+	<li><a href="https://drive.google.com/open?id=1Iyl-FcXZHtlfjycTYVKLJtQzKIdD7Nt3&amp;usp=drive_copy">Retrieving Datasets in TensorFlow</a></li>
+	<li><a href="https://drive.google.com/open?id=1J1qGrEKu0B6dv2m6CTHMn0_WSh4owW68&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn</a></li>
+	<li><a href="https://drive.google.com/open?id=1JUZgPES9XU7g-fdyOzTyzLrBmhXWTvn2&amp;usp=drive_copy">GAN for Generating MNIST Handwritten Digits</a></li>
+	<li><a href="https://drive.google.com/open?id=1JOJSVkCiwj-00KWIDrPGr91W0hxmRdwr&amp;usp=drive_copy">Generating Datasets in scikit-learn</a></li>
+	<li><a href="https://drive.google.com/open?id=1JD4WWraG5xwclkHhgjL4Zq6Rn9zmGPEO&amp;usp=drive_copy">Handwritten Digit Recognition with LeNet5 Model in PyTorch</a></li>
+	<li><a href="https://drive.google.com/open?id=1J9Y2dBofM7xBOe1axXPlGTZ8lA3LBw0a&amp;usp=drive_copy">Hate Speech Detection Using ML Python</a></li>
+	<li><a href="https://drive.google.com/open?id=1J9QnwH5mXOwns9xwoUz0Au6zhCRGDfJD&amp;usp=drive_copy">Image Augmentation for Deep Learning with Keras</a></li>
+	<li><a href="https://drive.google.com/open?id=1J4KFIovusmRAP2gbCyvhL3mJNTwxm8NG&amp;usp=drive_copy">Make Predictions with Keras</a></li>
+	<li><a href="https://drive.google.com/open?id=1IUsTBvtrkpGQmSwyPIa2XajjVcLCxNQS&amp;usp=drive_copy">Fake News Detection in Python</a></li>
+	<li><a href="https://drive.google.com/open?id=1KZ1tBQfw4gm9cM-xQJzRmkOI0sS7pmgQ&amp;usp=drive_copy">10 Clustering Algorithms With Python</a></li>
+	<li><a href="https://drive.google.com/open?id=1Kbkbf1weQjGpbV03eqE-LioAl9fvwFmi&amp;usp=drive_copy">Visualizing a PyTorch Model</a></li>
+	<li><a href="https://drive.google.com/open?id=1IPJLTViRdZ86pKUexGEnvLFy_TWN4DZQ&amp;usp=drive_copy">Deep Learning with PyTorch</a></li>
+	<li><a href="https://drive.google.com/open?id=1IViYTP5F3sMoq1BlqDW_ZBIvNqt6iZgE&amp;usp=drive_copy">Framework to Spot-Check Machine Learning Algorithms in Python</a></li>
+</ul>
 </body>
-
 
 
