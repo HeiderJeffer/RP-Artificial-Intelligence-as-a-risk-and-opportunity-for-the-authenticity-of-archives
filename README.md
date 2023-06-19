@@ -191,6 +191,7 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 
 <body>
 <ul>
+	<li><!-- Drive options:{"ids":["1IxrwwVpzf8FQ6J0S2wf0spoALOYgBqwe","1KZ1tBQfw4gm9cM-xQJzRmkOI0sS7pmgQ","1Kbkbf1weQjGpbV03eqE-LioAl9fvwFmi","1IPJLTViRdZ86pKUexGEnvLFy_TWN4DZQ","1IViYTP5F3sMoq1BlqDW_ZBIvNqt6iZgE","1IUsTBvtrkpGQmSwyPIa2XajjVcLCxNQS","1JUZgPES9XU7g-fdyOzTyzLrBmhXWTvn2","1JOJSVkCiwj-00KWIDrPGr91W0hxmRdwr","1JD4WWraG5xwclkHhgjL4Zq6Rn9zmGPEO","1J9Y2dBofM7xBOe1axXPlGTZ8lA3LBw0a","1J9QnwH5mXOwns9xwoUz0Au6zhCRGDfJD","1J4KFIovusmRAP2gbCyvhL3mJNTwxm8NG","1J1qGrEKu0B6dv2m6CTHMn0_WSh4owW68","1Iyl-FcXZHtlfjycTYVKLJtQzKIdD7Nt3","1yD0BAbhjR_GQaJ6cBnHmaoQBcbyvJ9-4","1-D-5VgGF6S0DUoacqp729ownUjhsW2CW","10PmqBhwGFJHfYRikh1qX6Eq2c71T_B8x","1KiHsjKS4B4JWezNiPPfsuCd8SPTzBRDn"],"isCopyOperation":true,"isPlainTextTitle":false} --><a href="https://drive.google.com/open?id=1IxrwwVpzf8FQ6J0S2wf0spoALOYgBqwe&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></li>
 	<li><a href="https://drive.google.com/open?id=1KZ1tBQfw4gm9cM-xQJzRmkOI0sS7pmgQ&amp;usp=drive_copy">10 Clustering Algorithms With Python</a></li>
 	<li><a href="https://drive.google.com/open?id=1Kbkbf1weQjGpbV03eqE-LioAl9fvwFmi&amp;usp=drive_copy">Visualizing a PyTorch Model</a></li>
 	<li><a href="https://drive.google.com/open?id=1IPJLTViRdZ86pKUexGEnvLFy_TWN4DZQ&amp;usp=drive_copy">Deep Learning with PyTorch</a></li>
@@ -204,9 +205,12 @@ I creat a Lab for this project. Please Pay Us a Visit. You can find all  AI/ML/D
 	<li><a href="https://drive.google.com/open?id=1J4KFIovusmRAP2gbCyvhL3mJNTwxm8NG&amp;usp=drive_copy">Make Predictions with Keras</a></li>
 	<li><a href="https://drive.google.com/open?id=1J1qGrEKu0B6dv2m6CTHMn0_WSh4owW68&amp;usp=drive_copy">Retrieving Datasets in scikit-learn and Seaborn</a></li>
 	<li><a href="https://drive.google.com/open?id=1Iyl-FcXZHtlfjycTYVKLJtQzKIdD7Nt3&amp;usp=drive_copy">Retrieving Datasets in TensorFlow</a></li>
-	<li><a href="https://drive.google.com/open?id=1IxrwwVpzf8FQ6J0S2wf0spoALOYgBqwe&amp;usp=drive_copy">Twitter Hate Speech Detection Using Machine Learning</a></li>
 	<li><a href="https://drive.google.com/open?id=1yD0BAbhjR_GQaJ6cBnHmaoQBcbyvJ9-4&amp;usp=drive_copy">Semi-Supervised Learning With Label Spreading</a></li>
 	<li><a href="https://drive.google.com/open?id=1-D-5VgGF6S0DUoacqp729ownUjhsW2CW&amp;usp=drive_copy">Monte Carlo Simulation and calculate complexity metrics</a></li>
+	<li><a href="https://drive.google.com/open?id=10PmqBhwGFJHfYRikh1qX6Eq2c71T_B8x&amp;usp=drive_copy">Machine Learning</a></li>
 </ul>
 </body>
+
+
+
 
