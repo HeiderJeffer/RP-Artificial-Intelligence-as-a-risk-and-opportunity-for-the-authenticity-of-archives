@@ -106,7 +106,7 @@ is a variety of digital technologies and methods for automated information proce
 - Study 6: shows that AI technologies are often treated as a (black box).
 - Study 7: about Archival practices: authenticity of purported records.  
 - Study 8: Understanding authentication as dynamic and reflexive instead of  static and stable.
-- Study 9: AI-Powered Fake News 2.0 (Oxford Internet Institute, University of Oxford) <body> <p><a href="https://youtu.be/6DdYxa19FCI">Link</a></p> </body>
+- Study 9: AI-Powered Fake News 2.0 (Oxford Internet Institute, University of Oxford) <p><a href="https://youtu.be/6DdYxa19FCI">Link</a></p>.
 
 
 Einstein's 1925 manuscript, Study 1 & 2 experiments  by Heider Jeffer – Transkribus tool
