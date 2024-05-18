@@ -4,7 +4,24 @@
 <h5 align="center">Welcome to my Ph.D project</h5>  
 -->
 # Artificial Intelligence as a risk and opportunity for the authenticity of archives
- 
+ Keywords: Artificial Intelligence (AI),
+Archives Management,
+Digital Preservation,
+Data Authenticity,
+Archival Integrity,
+AI in Archival Science,
+Risk Assessment,
+Opportunity Analysis,
+Machine Learning,
+Digital Archives,
+Data Security,
+Ethical AI,
+Information Authenticity,
+AI Applications in Archives,
+Technological Impact on Archives,
+AI-driven Archival Tools,
+Archival Provenance,
+AI Ethics in Archiving.
  <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University" alt = "Visitors-Counter"/>
 </body>
