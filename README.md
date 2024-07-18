@@ -31,9 +31,6 @@ AI Ethics in Archiving.
 
 I creat an AI/ML/DL Project Lab. Please Pay a Visit for our <a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax?usp=drive_link">AI/ML/DL Project Lab</a> , you can find all  AI/ML/DL apps and codes that I write for this project, I am working and making experiments, to develop and design apps that reflect the nature of this project.
 
-# Why I Chose this Project?
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/5.PNG)
-
 # Problem Statement and Motivation
 - AI has played a major role in the digitalization of society and creating new technologies than ever before, but, on the other hand, 
 Ethics, principles, democracy, equalities, criminal justice and morality  are important human features and AI still grow uncontrollably lack of these features, without any scientific models, or theoretical foundation that could investigate, evaluate, improve and invest in the  AI Techs regarding to  human development 
@@ -41,7 +38,6 @@ Ethics, principles, democracy, equalities, criminal justice and morality  are i
 - We live in world of AI fake news and propaganda
 ## We live in world of AI fake news and propaganda
 ## AI Techs in Digital Humanities and Digital Knowledge is a Hot Project. It is happening now 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/2.PNG)
 
 - We live in these outcomes, they are the biggest threat modern humans have ever faced, and still happening now in (2023) the time I am writing this presentation, therefore, together, with history, archival science, digital humanities, media technology, and computer science, we should start quickly in this project to address and investigate these challenges and to contribute new knowledge to the fields, as soon as humanly possible.
 - Investigate and evaluate the AI Techs is required to empower people, transform lives, benefit the institutions and societies, help future-proof cultural heritage institutions, serve public interest, approaching the archival principles and humane development.
@@ -83,7 +79,6 @@ AI Tools must respect the following PRINCIPLES:
 
 ### AI Technologies
 is a variety of digital technologies and methods for automated information processing and data mining. 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/6.PNG)
 
 ### Finding study
 - Study1: convert scanned manuscripts to a format that can be accessed by information retrieval systems or for further analysis.
@@ -100,15 +95,12 @@ Einstein's 1925 manuscript, Study 1 & 2 experiments  by Heider Jeffer – Transk
 
 at: https://app.transkribus.eu/share/d60da704039227db5bdc6c5a24adfbcd
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/7.PNG)
+
 
 # Research Approach
 This study is designed to be exploratory. The overall data collection and analysis process employed in the study showing in next UML diagram and explained in detail in the following text.
 
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/8.png)
 
-
-![alt text](https://github.com/HeiderJeffer/Ph.D-position-at-Linnaeus-University/blob/main/presentation/image/11-a.jpg)
 
 
 ## Data collection
